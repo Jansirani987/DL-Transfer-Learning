@@ -39,9 +39,9 @@ Evaluate the model with test accuracy, confusion matrix, classification report, 
 
 ## PROGRAM
 
-### Name: POOJA P
+### Name: JANSI RANI A A
 
-### Register Number: 212224230195
+### Register Number: 212224040130
 
 ```python
 import torch
